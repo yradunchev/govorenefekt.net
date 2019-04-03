@@ -63,7 +63,7 @@ publishDir = "docs"
 
     [languages.bg.params.logo]
       logoText = "Тоз дебел човек"
-      logoHomeLink = "episodes"
+      logoHomeLink = "/tfg"
 
     [languages.bg.menu]
       [[languages.bg.menu.main]]
