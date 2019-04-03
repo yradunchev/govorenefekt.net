@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Тоз дебел човек</title>
-    <link>https://www.govorenefekt.net/</link>
+    <link>https://tfg.govorenefekt.com/</link>
     <description>Recent content on Тоз дебел човек</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bg-bg</language>
     <lastBuildDate>Tue, 02 Apr 2019 16:16:54 +0300</lastBuildDate>
     
-        <atom:link href="https://www.govorenefekt.net/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tfg.govorenefekt.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>линкс</title>
-      <link>https://www.govorenefekt.net/links/</link>
+      <link>https://tfg.govorenefekt.com/links/</link>
       <pubDate>Tue, 02 Apr 2019 16:16:54 +0300</pubDate>
       
-      <guid>https://www.govorenefekt.net/links/</guid>
+      <guid>https://tfg.govorenefekt.com/links/</guid>
       <description></description>
     </item>
     
     <item>
       <title>0101: Тоз дебел човек...</title>
-      <link>https://www.govorenefekt.net/episodes/0101/</link>
+      <link>https://tfg.govorenefekt.com/episodes/0101/</link>
       <pubDate>Sun, 31 Mar 2019 21:17:56 +0300</pubDate>
       
-      <guid>https://www.govorenefekt.net/episodes/0101/</guid>
+      <guid>https://tfg.govorenefekt.com/episodes/0101/</guid>
       <description>Кой е тоз дебелия човек и за какво се бори? Защо иска да говори и защо трябва да го слушате.
 Ама трябва ли да го слушате?! А за какво иска да говори? А сам ли ще си говори или са групичка?
 </description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>За мен</title>
-      <link>https://www.govorenefekt.net/about/</link>
+      <link>https://tfg.govorenefekt.com/about/</link>
       <pubDate>Sun, 31 Mar 2019 16:34:53 +0300</pubDate>
       
-      <guid>https://www.govorenefekt.net/about/</guid>
+      <guid>https://tfg.govorenefekt.com/about/</guid>
       <description></description>
     </item>
     
