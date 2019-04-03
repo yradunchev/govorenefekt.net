@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://yradunchev.github.io/tfg/"
 languageCode = "bg-bg"
 theme = "terminal"
 DefaultContentLanguage = "bg"
