@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>bg/sitemap.xml</loc>
+		
+	   	<lastmod>2019-04-02T16:16:54+03:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

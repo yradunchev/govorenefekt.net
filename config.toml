@@ -1,0 +1,83 @@
+baseurl = ""
+languageCode = "bg-bg"
+theme = "terminal"
+DefaultContentLanguage = "bg"
+paginate = 4
+publishDir = "docs"
+
+
+[params]
+  RSSLink = "index.xml"
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "episodes"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 0 
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+[languages]
+  [languages.en]
+    title = "That Fat Guy"
+    subtitle = "A simple, retro theme for Hugo"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "That Fat Guy"
+      logoHomeLink = "/en"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "begin"
+        name = "Home"
+        url = "/en"
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 9
+      [[languages.en.menu.main]]
+        identifier = "links"
+        name = "Links"
+        url = "/showcase"
+        weight = 2
+
+  [languages.bg]
+    title = "Тоз дебел човек"
+    subtitle = "един дебел говори за ядене"
+    keywords = ""
+    copyright = ""
+    menuMore = "меню"
+    readMore = "към епизода..."
+    readOtherPosts = "напред-назад"
+
+    [languages.bg.params.logo]
+      logoText = "Тоз дебел човек"
+      logoHomeLink = "/"
+
+    [languages.bg.menu]
+      [[languages.bg.menu.main]]
+        identifier = "begin"
+        name = "начало"
+        url = "/"
+        weight = 1
+      [[languages.bg.menu.main]]
+        identifier = "about"
+        name = "за мен"
+        url = "/about"
+        weight = 9
+      [[languages.bg.menu.main]]
+        identifier = "links"
+        name = "линкс"
+        url = "/links"
+        weight = 2

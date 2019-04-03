@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Тоз дебел човек</title>
+    <link>/</link>
+    <description>Recent content on Тоз дебел човек</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>bg-bg</language>
+    <lastBuildDate>Tue, 02 Apr 2019 16:16:54 +0300</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>линкс</title>
+      <link>/links/</link>
+      <pubDate>Tue, 02 Apr 2019 16:16:54 +0300</pubDate>
+      
+      <guid>/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>0101: Тоз дебел човек...</title>
+      <link>/episodes/0101/</link>
+      <pubDate>Sun, 31 Mar 2019 21:17:56 +0300</pubDate>
+      
+      <guid>/episodes/0101/</guid>
+      <description>Кой е тоз дебелия човек и за какво се бори? Защо иска да говори и защо трябва да го слушате.
+Ама трябва ли да го слушате?! А за какво иска да говори? А сам ли ще си говори или са групичка?
+</description>
+    </item>
+    
+    <item>
+      <title>За мен</title>
+      <link>/about/</link>
+      <pubDate>Sun, 31 Mar 2019 16:34:53 +0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
