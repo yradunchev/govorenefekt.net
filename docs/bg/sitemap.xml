@@ -3,69 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/links/</loc>
+    <loc>https://yradunchev.github.io/tfg/links/</loc>
     <lastmod>2019-04-02T16:16:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/episodes/0101/</loc>
+    <loc>https://yradunchev.github.io/tfg/episodes/0101/</loc>
     <lastmod>2019-03-31T21:17:56+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://yradunchev.github.io/tfg/about/</loc>
     <lastmod>2019-03-31T16:34:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://yradunchev.github.io/tfg/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://yradunchev.github.io/tfg/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="/categories/"
+                href="https://yradunchev.github.io/tfg/categories/"
                 />
   </url>
   
   <url>
-    <loc>/episodes/</loc>
+    <loc>https://yradunchev.github.io/tfg/episodes/</loc>
     <lastmod>2019-03-31T21:17:56+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://yradunchev.github.io/tfg/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://yradunchev.github.io/tfg/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="/tags/"
+                href="https://yradunchev.github.io/tfg/tags/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://yradunchev.github.io/tfg/</loc>
     <lastmod>2019-04-02T16:16:54+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://yradunchev.github.io/tfg/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="/"
+                href="https://yradunchev.github.io/tfg/"
                 />
   </url>
   

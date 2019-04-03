@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://yradunchev.github.io/tfg/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="/categories/"
+                href="https://yradunchev.github.io/tfg/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://yradunchev.github.io/tfg/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
+    <loc>https://yradunchev.github.io/tfg/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="/tags/"
+                href="https://yradunchev.github.io/tfg/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://yradunchev.github.io/tfg/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>/en/</loc>
+    <loc>https://yradunchev.github.io/tfg/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="/"
+                href="https://yradunchev.github.io/tfg/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://yradunchev.github.io/tfg/en/"
                 />
   </url>
   
