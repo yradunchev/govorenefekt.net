@@ -1,4 +1,4 @@
-baseurl = "https://yradunchev.github.io/tfg/"
+baseurl = "https://tfg.govorenefekt.com"
 languageCode = "bg-bg"
 theme = "terminal"
 DefaultContentLanguage = "bg"
@@ -63,7 +63,7 @@ publishDir = "docs"
 
     [languages.bg.params.logo]
       logoText = "Тоз дебел човек"
-      logoHomeLink = "/tfg"
+      logoHomeLink = "/"
 
     [languages.bg.menu]
       [[languages.bg.menu.main]]
