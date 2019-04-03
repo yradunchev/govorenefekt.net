@@ -1,4 +1,4 @@
-baseurl = "https://tfg.govorenefekt.com/tfg"
+baseurl = "https://tfg.govorenefekt.com/"
 languageCode = "bg-bg"
 theme = "terminal"
 DefaultContentLanguage = "bg"

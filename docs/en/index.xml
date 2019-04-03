@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>That Fat Guy</title>
-    <link>https://yradunchev.github.io/tfg/en/</link>
+    <link>https://tfg.govorenefekt.com/en/</link>
     <description>Recent content on That Fat Guy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bg-bg</language>
     
-        <atom:link href="https://yradunchev.github.io/tfg/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tfg.govorenefekt.com/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
