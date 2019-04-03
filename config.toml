@@ -1,4 +1,4 @@
-baseurl = "http://govorenefekt.net/"
+baseurl = "https://govorenefekt.net/"
 languageCode = "bg-bg"
 theme = "terminal"
 DefaultContentLanguage = "bg"
