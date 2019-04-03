@@ -3,69 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tfg.govorenefekt.com/links/</loc>
+    <loc>http://govorenefekt.net/links/</loc>
     <lastmod>2019-04-02T16:16:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tfg.govorenefekt.com/episodes/0101/</loc>
+    <loc>http://govorenefekt.net/episodes/0101/</loc>
     <lastmod>2019-03-31T21:17:56+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tfg.govorenefekt.com/about/</loc>
+    <loc>http://govorenefekt.net/about/</loc>
     <lastmod>2019-03-31T16:34:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tfg.govorenefekt.com/categories/</loc>
+    <loc>http://govorenefekt.net/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tfg.govorenefekt.com/en/categories/"
+                href="http://govorenefekt.net/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://tfg.govorenefekt.com/categories/"
+                href="http://govorenefekt.net/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://tfg.govorenefekt.com/episodes/</loc>
+    <loc>http://govorenefekt.net/episodes/</loc>
     <lastmod>2019-03-31T21:17:56+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tfg.govorenefekt.com/tags/</loc>
+    <loc>http://govorenefekt.net/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tfg.govorenefekt.com/en/tags/"
+                href="http://govorenefekt.net/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://tfg.govorenefekt.com/tags/"
+                href="http://govorenefekt.net/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://tfg.govorenefekt.com/</loc>
+    <loc>http://govorenefekt.net/</loc>
     <lastmod>2019-04-02T16:16:54+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tfg.govorenefekt.com/en/"
+                href="http://govorenefekt.net/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://tfg.govorenefekt.com/"
+                href="http://govorenefekt.net/"
                 />
   </url>
   

@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tfg.govorenefekt.com/en/categories/</loc>
+    <loc>http://govorenefekt.net/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://tfg.govorenefekt.com/categories/"
+                href="http://govorenefekt.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tfg.govorenefekt.com/en/categories/"
+                href="http://govorenefekt.net/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://tfg.govorenefekt.com/en/tags/</loc>
+    <loc>http://govorenefekt.net/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://tfg.govorenefekt.com/tags/"
+                href="http://govorenefekt.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tfg.govorenefekt.com/en/tags/"
+                href="http://govorenefekt.net/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://tfg.govorenefekt.com/en/</loc>
+    <loc>http://govorenefekt.net/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://tfg.govorenefekt.com/"
+                href="http://govorenefekt.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tfg.govorenefekt.com/en/"
+                href="http://govorenefekt.net/en/"
                 />
   </url>
   
