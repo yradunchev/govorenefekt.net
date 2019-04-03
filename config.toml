@@ -9,7 +9,7 @@ publishDir = "docs"
 [params]
   RSSLink = "index.xml"
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "/episodes"
+  contentTypeName = "episodes"
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
@@ -69,7 +69,7 @@ publishDir = "docs"
       [[languages.bg.menu.main]]
         identifier = "begin"
         name = "начало"
-        url = "episodes"
+        url = "/"
         weight = 1
       [[languages.bg.menu.main]]
         identifier = "about"
