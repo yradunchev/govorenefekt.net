@@ -3,69 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://govorenefekt.net/links/</loc>
+    <loc>https://govorenefekt.net/links/</loc>
     <lastmod>2019-04-02T16:16:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govorenefekt.net/episodes/0101/</loc>
+    <loc>https://govorenefekt.net/episodes/0101/</loc>
     <lastmod>2019-03-31T21:17:56+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govorenefekt.net/about/</loc>
+    <loc>https://govorenefekt.net/about/</loc>
     <lastmod>2019-03-31T16:34:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govorenefekt.net/categories/</loc>
+    <loc>https://govorenefekt.net/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://govorenefekt.net/en/categories/"
+                href="https://govorenefekt.net/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://govorenefekt.net/categories/"
+                href="https://govorenefekt.net/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://govorenefekt.net/episodes/</loc>
+    <loc>https://govorenefekt.net/episodes/</loc>
     <lastmod>2019-03-31T21:17:56+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govorenefekt.net/tags/</loc>
+    <loc>https://govorenefekt.net/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://govorenefekt.net/en/tags/"
+                href="https://govorenefekt.net/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://govorenefekt.net/tags/"
+                href="https://govorenefekt.net/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://govorenefekt.net/</loc>
+    <loc>https://govorenefekt.net/</loc>
     <lastmod>2019-04-02T16:16:54+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://govorenefekt.net/en/"
+                href="https://govorenefekt.net/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://govorenefekt.net/"
+                href="https://govorenefekt.net/"
                 />
   </url>
   
