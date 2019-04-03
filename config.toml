@@ -63,13 +63,13 @@ publishDir = "docs"
 
     [languages.bg.params.logo]
       logoText = "Тоз дебел човек"
-      logoHomeLink = "/"
+      logoHomeLink = "/episodes"
 
     [languages.bg.menu]
       [[languages.bg.menu.main]]
         identifier = "begin"
         name = "начало"
-        url = "/"
+        url = "/episodes"
         weight = 1
       [[languages.bg.menu.main]]
         identifier = "about"
