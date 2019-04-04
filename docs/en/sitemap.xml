@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://govorenefekt.net/en/categories/</loc>
+    <loc>https://yradunchev.github.io/thatfatguybg.com/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://govorenefekt.net/categories/"
+                href="https://yradunchev.github.io/thatfatguybg.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://govorenefekt.net/en/categories/"
+                href="https://yradunchev.github.io/thatfatguybg.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://govorenefekt.net/en/tags/</loc>
+    <loc>https://yradunchev.github.io/thatfatguybg.com/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://govorenefekt.net/tags/"
+                href="https://yradunchev.github.io/thatfatguybg.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://govorenefekt.net/en/tags/"
+                href="https://yradunchev.github.io/thatfatguybg.com/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://govorenefekt.net/en/</loc>
+    <loc>https://yradunchev.github.io/thatfatguybg.com/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://govorenefekt.net/"
+                href="https://yradunchev.github.io/thatfatguybg.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://govorenefekt.net/en/"
+                href="https://yradunchev.github.io/thatfatguybg.com/en/"
                 />
   </url>
   
