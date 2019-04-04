@@ -1,1 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://thatfatguybg.com/en/categories/</loc><priority>0</priority><xhtml:link rel="alternate" hreflang="bg" href="https://thatfatguybg.com/categories/"/><xhtml:link rel="alternate" hreflang="en" href="https://thatfatguybg.com/en/categories/"/></url><url><loc>https://thatfatguybg.com/en/tags/</loc><priority>0</priority><xhtml:link rel="alternate" hreflang="bg" href="https://thatfatguybg.com/tags/"/><xhtml:link rel="alternate" hreflang="en" href="https://thatfatguybg.com/en/tags/"/></url><url><loc>https://thatfatguybg.com/en/</loc><priority>0</priority><xhtml:link rel="alternate" hreflang="bg" href="https://thatfatguybg.com/"/><xhtml:link rel="alternate" hreflang="en" href="https://thatfatguybg.com/en/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://thatfatguybg.com/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://thatfatguybg.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://thatfatguybg.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://thatfatguybg.com/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://thatfatguybg.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://thatfatguybg.com/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://thatfatguybg.com/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://thatfatguybg.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://thatfatguybg.com/en/"
+                />
+  </url>
+  
+</urlset>
