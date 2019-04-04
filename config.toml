@@ -1,4 +1,4 @@
-baseurl = "https://thatfatguybg.com"
+baseurl = "http://thatfatguybg.com"
 languageCode = "bg-bg"
 theme = "terminal"
 DefaultContentLanguage = "bg"
