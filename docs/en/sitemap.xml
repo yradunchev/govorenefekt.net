@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yradunchev.github.io/thatfatguybg.com/en/categories/</loc>
+    <loc>https://thatfatguybg.com/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://yradunchev.github.io/thatfatguybg.com/categories/"
+                href="https://thatfatguybg.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yradunchev.github.io/thatfatguybg.com/en/categories/"
+                href="https://thatfatguybg.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://yradunchev.github.io/thatfatguybg.com/en/tags/</loc>
+    <loc>https://thatfatguybg.com/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://yradunchev.github.io/thatfatguybg.com/tags/"
+                href="https://thatfatguybg.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yradunchev.github.io/thatfatguybg.com/en/tags/"
+                href="https://thatfatguybg.com/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://yradunchev.github.io/thatfatguybg.com/en/</loc>
+    <loc>https://thatfatguybg.com/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://yradunchev.github.io/thatfatguybg.com/"
+                href="https://thatfatguybg.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yradunchev.github.io/thatfatguybg.com/en/"
+                href="https://thatfatguybg.com/en/"
                 />
   </url>
   
