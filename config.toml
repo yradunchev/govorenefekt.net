@@ -54,7 +54,7 @@ publishDir = "docs"
 
   [languages.bg]
     title = "Тоз дебел човек"
-    subtitle = "един дебел говори за ядене"
+    subtitle = "един дебел говори и за ядене"
     keywords = ""
     copyright = ""
     menuMore = "меню"
