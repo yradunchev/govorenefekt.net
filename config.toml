@@ -20,6 +20,7 @@ publishDir = "docs"
   centerTheme = true
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
+  mailchimpURL =  "https://govorenefect.us19.list-manage.com/subscribe/post?u=3efe8193e120ab07eb3930ddc&amp;id=62ad386207"
 
 [languages]
   [languages.en]

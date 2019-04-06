@@ -1,7 +1,9 @@
 {{ define "main"}}
     <main id="main">
       <div>
-        <h1 id="title"><a href="{{ "/" | relURL }}">Go Home</a></h1>
+        <h1 id="title"><a href="{{ "/" | relURL }}">О, не! Няма такава страница! Така и така си тук,
+          защо не се абонираш за тайния ни мейлинг лист?</a></h1>
       </div>
+      {{ if isset .Site.Params "mailchimpurl" }}{{ partial "mailchimp-signup" . }}{{ end }}
     </main>
 {{ end }}
