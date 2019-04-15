@@ -7,7 +7,7 @@
     <webMaster>ge@govorenefekt.com (Yordan Radunchev)</webMaster>
     <managingEditor>ge@govorenefekt.com (Yordan Radunchev)</managingEditor>
     <image>
-      <url>https://thatfatguybg.com/cover.jpg</url>
+      <url>https://thatfatguybg.com/img/cover.jpg</url>
       <title>That Fat Guy</title>
       <link>https://thatfatguybg.com</link>
     </image>
@@ -20,7 +20,7 @@
     </itunes:category>
     <itunes:keywords>health, wellbeing, wellness, nutrition, lchf</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://thatfatguybg.com/cover.jpg" />
+    <itunes:image href="http://thatfatguybg.com/img/cover.jpg" />
     <atom:link href="https://thatfatguybg.com/index.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 15 Apr 2019 09:00:00 GMT</pubDate>
     <title>That Fat Guy</title>
