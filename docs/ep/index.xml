@@ -6,8 +6,11 @@
   version="2.0">
     <channel>
         
+    
+    <atom:link href="https://thatfatguybg.com/ep/index.xml" rel="self" type="application/rss+xml" />
+    
       <title>Тоз дебел човек</title>
-      <lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 14 Apr 2019 21:17:56 +0300</lastBuildDate>
       <link>https://thatfatguybg.com</link>
       <language>bg</language>
       <copyright> CC-BY TFGBG</copyright>
