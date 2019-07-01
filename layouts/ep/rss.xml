@@ -40,11 +40,11 @@
         <description>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.description }}]]></description>
         <link>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.link }}]]></link>
         <content:encoded>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.description }}]]></content:encoded>
-        <itunes:author>>{{ $pg.Params.author }}</itunes:author>
+        <itunes:author>{{ $pg.Params.author }}</itunes:author>
         <itunes:subtitle>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.description }}]]></itunes:subtitle>
-        <itunes:summary>>{{ $pg.Params.title }}</itunes:summary>
+        <itunes:summary>{{ $pg.Params.title }}</itunes:summary>
         <enclosure url="{{ $pg.Params.link }}" length="{{ $pg.Params.length }}" type="audio/mpeg" />
-        <pubDate>{{ $pg.Params.Date }}</pubDate>
+        <pubDate>{{ $pg.Params.date }}</pubDate>
         <itunes:duration>{{ $pg.Params.duration }}</itunes:duration>
         <itunes:keywords>{{ $pg.Params.keywords }}</itunes:keywords>
         <itunes:season>{{ $pg.Params.season }}</itunes:season>
