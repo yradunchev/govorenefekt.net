@@ -27,8 +27,8 @@
         <link>https://thatfatguybg.com</link>
       </image>
       <itunes:image href="" />
-      <itunes:category text="Religion">
-        <itunes:category text="Christianity"/>
+      <itunes:category text="Health & Medicine">
+        <itunes:category text="Diet & Nutrition"/>
       </itunes:category>
         {{ range $i, $pg := .Pages }}
       <item>
