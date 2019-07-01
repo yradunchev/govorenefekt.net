@@ -11,7 +11,7 @@ lastmod = [":fileModTime", ":default"]
 
 
 [params]
-  RSSLink = "index.xml"
+  #RSSLink = "index.xml"
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "ep"
   # ["orange", "blue", "red", "green", "pink"]
