@@ -5,6 +5,10 @@ DefaultContentLanguage = "bg"
 paginate = 4
 publishDir = "docs"
 
+[frontmatter]
+lastmod = [":fileModTime", ":default"]
+
+
 
 [params]
   RSSLink = "index.xml"
