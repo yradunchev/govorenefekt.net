@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  version="2.0">
+    <channel>
+        
+      <title>Тоз дебел човек</title>
+      <lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate>
+      <link>https://thatfatguybg.com</link>
+      <language>bg</language>
+      <copyright> CC-BY TFGBG</copyright>
+      <itunes:subtitle><![CDATA[Един дебел говори и за ядене...]]></itunes:subtitle>
+      <itunes:author>Yordan Radunchev</itunes:author>
+      <itunes:summary><![CDATA[Един дебел говори и за ядене...]]></itunes:summary>
+      <itunes:type>episodic</itunes:type>
+      <itunes:explicit>no</itunes:explicit>
+      <description><![CDATA[Един дебел говори и за ядене...]]></description>
+      <itunes:owner>
+        <itunes:name>Yordan Radunchev</itunes:name>
+        <itunes:email>yordan@govorenefekt.com</itunes:email>
+      </itunes:owner>
+      <image>
+        <url></url>
+        <title>Тоз дебел човек</title>
+        <link>https://thatfatguybg.com</link>
+      </image>
+      <itunes:image href="" />
+      <itunes:category text="Health &amp; Fitness">
+        <itunes:category text="Nutrition"/>
+      </itunes:category>
+        
+      <item>
+        <itunes:title>0100: Тоз дебел човек...</itunes:title>
+        <title>>0100: Тоз дебел човек...</title>
+        <description><![CDATA[Кой е тоз дебелия човек и за какво се бори? Защо иска да говори и защо трябва да го слушате.
+Ама трябва ли да го слушате?! А за какво иска да говори? А сам ли ще си говори или са групичка?
+]]></description>
+        <link><![CDATA[http://ep.thatfatguybg.com/s01/introshort.mp3]]></link>
+        <content:encoded><![CDATA[Кой е тоз дебелия човек и за какво се бори? Защо иска да говори и защо трябва да го слушате.
+Ама трябва ли да го слушате?! А за какво иска да говори? А сам ли ще си говори или са групичка?
+]]></content:encoded>
+        <itunes:author>>Yordan Radunchev</itunes:author>
+        <itunes:subtitle><![CDATA[Кой е тоз дебелия човек и за какво се бори? Защо иска да говори и защо трябва да го слушате.
+Ама трябва ли да го слушате?! А за какво иска да говори? А сам ли ще си говори или са групичка?
+]]></itunes:subtitle>
+        <itunes:summary>>0100: Тоз дебел човек...</itunes:summary>
+        <enclosure url="http://ep.thatfatguybg.com/s01/introshort.mp3" length="123" type="audio/mpeg" />
+        <pubDate></pubDate>
+        <itunes:duration>123</itunes:duration>
+        <itunes:keywords>[its only words]</itunes:keywords>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+        
+    </channel>
+ </rss>
+
