@@ -1,43 +1,66 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Тоз дебел човек</title>
-    <link>https://thatfatguybg.com/</link>
-    <description>Recent content on Тоз дебел човек</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>bg-bg</language>
-    <lastBuildDate>Sun, 14 Apr 2019 21:17:56 +0300</lastBuildDate>
-    
-        <atom:link href="https://thatfatguybg.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>0100: Тоз дебел човек...</title>
-      <link>https://thatfatguybg.com/episodes/0100/</link>
-      <pubDate>Sun, 14 Apr 2019 21:17:56 +0300</pubDate>
-      
-      <guid>https://thatfatguybg.com/episodes/0100/</guid>
-      <description>Кой е тоз дебелия човек и за какво се бори? Защо иска да говори и защо трябва да го слушате.
+&lt;?xml version="1.0" encoding="UTF-8"?><rss 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  version="2.0">
+    <channel>
+        
+      <title>Тоз дебел човек</title>
+      <lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate>
+      <link>https://thatfatguybg.com</link>
+      <language>bg</language>
+      <copyright> CC-BY TFGBG</copyright>
+      <itunes:subtitle>"Един дебел говори и за ядене..."</itunes:subtitle>
+      <itunes:author>Yordan Radunchev</itunes:author>
+      <itunes:summary>"Един дебел говори и за ядене..."></itunes:summary>
+      <itunes:type>episodic</itunes:type>
+      <itunes:explicit>no</itunes:explicit>
+      <description>"Един дебел говори и за ядене..."></description>
+      <itunes:owner>
+        <itunes:name>Yordan Radunchev</itunes:name>
+        <itunes:email>yordan@govorenefekt.com</itunes:email>
+      </itunes:owner>
+      <image>
+        <url></url>
+        <title>Тоз дебел човек</title>
+        <link>https://thatfatguybg.com</link>
+      </image>
+      <itunes:image href="" />
+      <itunes:category text="Religion">
+        <itunes:category text="Christianity"/>
+      </itunes:category>
+        
+        
+      <item>
+        <itunes:title>0100: Тоз дебел човек...</itunes:title>
+        <title>>0100: Тоз дебел човек...</title>
+        <description>"Кой е тоз дебелия човек и за какво се бори? Защо иска да говори и защо трябва да го слушате.
 Ама трябва ли да го слушате?! А за какво иска да говори? А сам ли ще си говори или са групичка?
-</description>
-    </item>
-    
-    <item>
-      <title>линкс</title>
-      <link>https://thatfatguybg.com/links/</link>
-      <pubDate>Tue, 02 Apr 2019 16:16:54 +0300</pubDate>
-      
-      <guid>https://thatfatguybg.com/links/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>За мен</title>
-      <link>https://thatfatguybg.com/about/</link>
-      <pubDate>Sun, 31 Mar 2019 16:34:53 +0300</pubDate>
-      
-      <guid>https://thatfatguybg.com/about/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+"></description>
+        <link>"http://ep.thatfatguybg.com/s01/introshort.mp3"></link>
+        <content:encoded>"Кой е тоз дебелия човек и за какво се бори? Защо иска да говори и защо трябва да го слушате.
+Ама трябва ли да го слушате?! А за какво иска да говори? А сам ли ще си говори или са групичка?
+"></content:encoded>
+        <itunes:author>>Yordan Radunchev</itunes:author>
+        <itunes:subtitle>"Кой е тоз дебелия човек и за какво се бори? Защо иска да говори и защо трябва да го слушате.
+Ама трябва ли да го слушате?! А за какво иска да говори? А сам ли ще си говори или са групичка?
+"></itunes:subtitle>
+        <itunes:summary>>0100: Тоз дебел човек...</itunes:summary>
+        <enclosure url="http://ep.thatfatguybg.com/s01/introshort.mp3" length="123" type="audio/mpeg" />
+        <pubDate></pubDate>
+        <itunes:duration>123</itunes:duration>
+        <itunes:keywords>[its only words]</itunes:keywords>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+        
+        
+        
+        
+        
+        
+    </channel>
+ </rss>
+

@@ -1,13 +1,35 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>That Fat Guy</title>
-    <link>https://thatfatguybg.com/en/</link>
-    <description>Recent content on That Fat Guy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>bg-bg</language>
-    
-        <atom:link href="https://thatfatguybg.com/en/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+&lt;?xml version="1.0" encoding="UTF-8"?><rss 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  version="2.0">
+    <channel>
+        
+      <title>Тоз дебел човек</title>
+      <lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate>
+      <link>https://thatfatguybg.com</link>
+      <language>bg</language>
+      <copyright> CC-BY TFGBG</copyright>
+      <itunes:subtitle>"Един дебел говори и за ядене..."</itunes:subtitle>
+      <itunes:author>Yordan Radunchev</itunes:author>
+      <itunes:summary>"Един дебел говори и за ядене..."></itunes:summary>
+      <itunes:type>episodic</itunes:type>
+      <itunes:explicit>no</itunes:explicit>
+      <description>"Един дебел говори и за ядене..."></description>
+      <itunes:owner>
+        <itunes:name>Yordan Radunchev</itunes:name>
+        <itunes:email>yordan@govorenefekt.com</itunes:email>
+      </itunes:owner>
+      <image>
+        <url></url>
+        <title>Тоз дебел човек</title>
+        <link>https://thatfatguybg.com</link>
+      </image>
+      <itunes:image href="" />
+      <itunes:category text="Religion">
+        <itunes:category text="Christianity"/>
+      </itunes:category>
+        
+    </channel>
+ </rss>
+
