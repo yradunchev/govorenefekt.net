@@ -27,8 +27,8 @@
         <link>https://thatfatguybg.com</link>
       </image>
       <itunes:image href="" />
-      <itunes:category text="Health &amp; Medicine">
-        <itunes:category text="Diet &amp; Nutrition"/>
+      <itunes:category text="Health &amp; Fitness">
+        <itunes:category text="Nutrition"/>
       </itunes:category>
         {{ range $i, $pg := .Pages }}
       <item>
