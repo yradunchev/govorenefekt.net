@@ -10,12 +10,12 @@
       <link>https://thatfatguybg.com</link>
       <language>bg</language>
       <copyright> CC-BY TFGBG</copyright>
-      <itunes:subtitle>"Един дебел говори и за ядене..."</itunes:subtitle>
+      <itunes:subtitle>&lt;![CDATA[Един дебел говори и за ядене...]]></itunes:subtitle>
       <itunes:author>Yordan Radunchev</itunes:author>
-      <itunes:summary>"Един дебел говори и за ядене..."></itunes:summary>
+      <itunes:summary>&lt;![CDATA[Един дебел говори и за ядене...]]></itunes:summary>
       <itunes:type>episodic</itunes:type>
       <itunes:explicit>no</itunes:explicit>
-      <description>"Един дебел говори и за ядене..."></description>
+      <description>&lt;![CDATA[Един дебел говори и за ядене...]]></description>
       <itunes:owner>
         <itunes:name>Yordan Radunchev</itunes:name>
         <itunes:email>yordan@govorenefekt.com</itunes:email>

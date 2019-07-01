@@ -10,12 +10,12 @@
       <link>https://thatfatguybg.com</link>
       <language>bg</language>
       <copyright> CC-BY TFGBG</copyright>
-      <itunes:subtitle>"Един дебел говори и за ядене..."</itunes:subtitle>
+      <itunes:subtitle><![CDATA[Един дебел говори и за ядене...]]></itunes:subtitle>
       <itunes:author>Yordan Radunchev</itunes:author>
-      <itunes:summary>"Един дебел говори и за ядене..."></itunes:summary>
+      <itunes:summary><![CDATA[Един дебел говори и за ядене...]]></itunes:summary>
       <itunes:type>episodic</itunes:type>
       <itunes:explicit>no</itunes:explicit>
-      <description>"Един дебел говори и за ядене..."></description>
+      <description><![CDATA[Един дебел говори и за ядене...]]></description>
       <itunes:owner>
         <itunes:name>Yordan Radunchev</itunes:name>
         <itunes:email>yordan@govorenefekt.com</itunes:email>
@@ -34,11 +34,11 @@
       <item>
         <itunes:title>{{ $pg.Params.title }}</itunes:title>
         <title>>{{ $pg.Params.title }}</title>
-        <description>"{{ $pg.Params.description }}"></description>
-        <link>"{{ $pg.Params.link }}"></link>
-        <content:encoded>"{{ $pg.Params.description }}"></content:encoded>
+        <description><![CDATA[{{ $pg.Params.description }}]]></description>
+        <link><![CDATA[{{ $pg.Params.link }}]]></link>
+        <content:encoded><![CDATA[{{ $pg.Params.description }}]]></content:encoded>
         <itunes:author>>{{ $pg.Params.author }}</itunes:author>
-        <itunes:subtitle>"{{ $pg.Params.description }}"></itunes:subtitle>
+        <itunes:subtitle><![CDATA[{{ $pg.Params.description }}]]></itunes:subtitle>
         <itunes:summary>>{{ $pg.Params.title }}</itunes:summary>
         <enclosure url="{{ $pg.Params.link }}" length="{{ $pg.Params.length }}" type="audio/mpeg" />
         <pubDate>{{ $pg.Params.Date }}</pubDate>
