@@ -6,8 +6,11 @@
   version="2.0">
     <channel>
         <!-- <atom:link href="https://feeds.buzzsprout.com/262762.rss" rel="self" type="application/rss+xml" /> -->
+    {{ with .OutputFormats.Get "RSS" }}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{ end }}
       <title>Тоз дебел човек</title>
-      <lastBuildDate>{{ .PublishDate.Format "Wed, 2 Jan 2006 15:04:05 GMT" }}</lastBuildDate>
+      <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
       <link>https://thatfatguybg.com</link>
       <language>bg</language>
       <copyright> CC-BY TFGBG</copyright>
