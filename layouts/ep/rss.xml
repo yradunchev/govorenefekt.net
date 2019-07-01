@@ -36,7 +36,7 @@
         {{ range $i, $pg := .Pages }}
       <item>
         <itunes:title>{{ $pg.Params.title }}</itunes:title>
-        <title>>{{ $pg.Params.title }}</title>
+        <title>{{ $pg.Params.title }}</title>
         <description>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.description }}]]></description>
         <link>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.link }}]]></link>
         <content:encoded>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.description }}]]></content:encoded>
