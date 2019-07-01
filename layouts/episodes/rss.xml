@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss 
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" ?>" | safeHTML }}
+<rss 
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
   xmlns:content="http://purl.org/rss/1.0/modules/content/" 
   xmlns:atom="http://www.w3.org/2005/Atom" 
@@ -10,12 +11,12 @@
       <link>https://thatfatguybg.com</link>
       <language>bg</language>
       <copyright> CC-BY TFGBG</copyright>
-      <itunes:subtitle><![CDATA[Един дебел говори и за ядене...]]></itunes:subtitle>
+      <itunes:subtitle>{{ `<![CDATA[` | safeHTML }}Един дебел говори и за ядене...]]></itunes:subtitle>
       <itunes:author>Yordan Radunchev</itunes:author>
-      <itunes:summary><![CDATA[Един дебел говори и за ядене...]]></itunes:summary>
+      <itunes:summary>{{ `<![CDATA[` | safeHTML }}Един дебел говори и за ядене...]]></itunes:summary>
       <itunes:type>episodic</itunes:type>
       <itunes:explicit>no</itunes:explicit>
-      <description><![CDATA[Един дебел говори и за ядене...]]></description>
+      <description>{{ `<![CDATA[` | safeHTML }}Един дебел говори и за ядене...]]></description>
       <itunes:owner>
         <itunes:name>Yordan Radunchev</itunes:name>
         <itunes:email>yordan@govorenefekt.com</itunes:email>
@@ -30,15 +31,14 @@
         <itunes:category text="Christianity"/>
       </itunes:category>
         {{ range $i, $pg := .Pages }}
-        {{ if $pg.Params.type }}
       <item>
         <itunes:title>{{ $pg.Params.title }}</itunes:title>
         <title>>{{ $pg.Params.title }}</title>
-        <description><![CDATA[{{ $pg.Params.description }}]]></description>
-        <link><![CDATA[{{ $pg.Params.link }}]]></link>
-        <content:encoded><![CDATA[{{ $pg.Params.description }}]]></content:encoded>
+        <description>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.description }}]]></description>
+        <link>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.link }}]]></link>
+        <content:encoded>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.description }}]]></content:encoded>
         <itunes:author>>{{ $pg.Params.author }}</itunes:author>
-        <itunes:subtitle><![CDATA[{{ $pg.Params.description }}]]></itunes:subtitle>
+        <itunes:subtitle>{{ `<![CDATA[` | safeHTML }}{{ $pg.Params.description }}]]></itunes:subtitle>
         <itunes:summary>>{{ $pg.Params.title }}</itunes:summary>
         <enclosure url="{{ $pg.Params.link }}" length="{{ $pg.Params.length }}" type="audio/mpeg" />
         <pubDate>{{ $pg.Params.Date }}</pubDate>
@@ -49,7 +49,6 @@
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:explicit>no</itunes:explicit>
       </item>
-        {{ end }}
         {{ end }}
     </channel>
  </rss>
